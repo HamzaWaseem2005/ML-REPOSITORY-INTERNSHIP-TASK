@@ -67,7 +67,4 @@ git clone [https://github.com/HamzaWaseem2005/Devixo-Task02.git](https://github.
 
 **Muhammad Hamza Waseem**
 
-```
 
-
-```
